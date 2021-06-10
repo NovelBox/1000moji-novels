@@ -1,15 +1,18 @@
 #!SMSdata
 book:
-  title: ストーリータイトル
-  copy: コピィ
-  theme: テーマ
-  genre: ジャンル
-  target: 対象
-  contests: コンテスト
-  caution: 注意書き
+  title: 1000文字小説百蒐
+  copy: 様々な人生を、様々な1000文字に
+  theme: 人間の業と性
+  genre: バラエティ
+  target: 30-50台
+  contests: なし
+  caution: 別サイトに投稿していたものを再編集し、100編にまとめたもの
   sites:
     - 小説家になろう
+  　- エブリスタ
+  　- カクヨム
+    - ノベルアッププラス
   tags:
-    - novel
-  version: "0.0.1"
+    - 掌編
+  version: "0.1.0"
   note: 備考
