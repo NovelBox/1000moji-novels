@@ -11,38 +11,16 @@
 蒐集のしゅうで、集めたものという意味。
 会意。艸と、鬼（死んだ人）とから成り、死者の血のあとに生えると言い伝えられる草、「あかね」の意を表す。借りて「あつめる」意に用いる。
 
-[plot]
+[plot:１話から１０話]
 
-テストプロット
+最初は小説家が百の物語を書いている、という想定を教える
+その後、各作品に入る
+代表的なジャンルに沿って、象徴的な作品、舞台、人物、設定を見せておく
 
-<boyandgirl>
-<confession>
+<punishment>
 
-## boyandgirl
+[plot:１１から２０]
 
-::title = 少年と少女
-::camera = taro
-::stage = Classroom
-::location = INT
-::year = 2021
-::date = 3/1
-::time = afternoon
-::outline = 二人の出会いについて
+未定
 
-[taro:be:考え事をして椅子に座る]
-
-[hana:come:慌てた様子で]
-
-[taro:talk]
-どうかした？
-
-[hana:talk]
-忘れ物しただけ
-
-## confession
-
-::title = 告白
-::outline = $taroは$hanaに告白した
-
-[hana:be:窓際に]
-[taro:come:走って]
+<box>
