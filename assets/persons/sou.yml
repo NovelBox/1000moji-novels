@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sou
+  name: 宗
+  fullname: 宗,林周
+  age: 33
+  sex: male
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

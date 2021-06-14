@@ -3,14 +3,16 @@
 ## rightofhuman
 
 ::title = Right of human
-::camera = カメラ
-::stage = ステージ
+::camera = yamatao
+::stage = UnivCampus
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[yamatao:be:]
+[:draw:]
 「あなたは決してその義務を果たせない。それでもいいのね？」
 「ああ、それでいい」
 　クシナの問い掛けにヤマタオはしっかりと頷くと、先に目の前のパネルに自分の左手を載せた。彼女もそれに続き、その右手を置く。
@@ -62,6 +64,4 @@
 
 『遺伝子適合率九十％。検体ＡとＢは兄弟と考えられ、付き合うことは認められない』
 
-（了）
-
-
+[mark:（了）]

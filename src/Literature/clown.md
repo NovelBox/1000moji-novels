@@ -3,14 +3,16 @@
 ## clown
 
 ::title = 道化
-::camera = カメラ
-::stage = ステージ
+::camera = haku
+::stage = ExamRoom
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[haku:be:]
+[:draw:]
 　人間だけが笑うという感情を知ると云う。
 　初め見た時、彼は動物の笑顔を集めた写真集を開いていたが、やはりその時も笑っていたのだろうか。
 
@@ -54,6 +56,4 @@
 
 「そう言えば一度だけ笑いましたよ。彼女の犬を殺した時に」
 
-（了）
-
-
+[mark:（了）]

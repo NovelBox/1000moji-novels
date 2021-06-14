@@ -3,13 +3,17 @@
 ## musicbox
 
 ::title = オルゴール
-::camera = カメラ
+::camera = mbox
 ::stage = ステージ
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
+
+[mbox:be:]
+[maria:be:]
+[:draw:]
 
 　そこはずっと純粋な闇だった。
 　その闇の中で黙り込み、僕はずっと考えていた。
@@ -45,6 +49,6 @@
 「わたしを愛しているんでしょう？　なら、これで死んでくれる？」
 　彼女はそして、大人になるのだろうか。
 　僕はもう鳴らない。
-　ならない。（了）
+　ならない。
 
-
+[mark:（了）]

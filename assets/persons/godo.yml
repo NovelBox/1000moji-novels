@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: godo
+  name: 護堂
+  fullname: 護堂,茂道
+  age: 43
+  sex: male
+  job: サッカー選手
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

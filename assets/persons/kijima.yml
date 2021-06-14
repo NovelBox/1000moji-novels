@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kijima
+  name: 祈島
+  fullname: 祈島,結介
+  age: 31
+  sex: male
+  job: 祈祷師
+  belong: フリー
+  calling:
+    me: ぼく
+  note: 備考

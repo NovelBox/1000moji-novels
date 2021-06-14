@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: icarus
+  name: イーカロス
+  fullname: EK61,ロクス
+  age: 17
+  sex: male
+  job: 無職
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

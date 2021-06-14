@@ -3,14 +3,16 @@
 ## butterfly
 
 ::title = 電子蝶は夢を舞う
-::camera = カメラ
-::stage = ステージ
+::camera = harano
+::stage = ThreLabo
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[harano:be:]
+[:draw:]
 　ブラウン管に薄ぼんやりと光った小さな点に向かって、ちらちらと二枚の赤の明滅が移動してゆく。その赤が光に到達すると、画面にはコマンド・プロンプトが表示され、この人工生命の創造主であるトーレ・ベクター博士の命令を待った。
 
 ＞Please input command
@@ -70,6 +72,4 @@
 
 「あなた」の、夢の中を。
 
-（了）
-
-
+[mark:（了）]

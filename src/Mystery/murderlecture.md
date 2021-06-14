@@ -3,14 +3,16 @@
 ## murderlecture
 
 ::title = 殺人抗議
-::camera = カメラ
-::stage = ステージ
+::camera = sezaki
+::stage = Classroom
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[sezaki:be:]
+[:draw:]
 　そこには暗闇と静寂だけが待っていた。いつ足下が落ちるのか。
 　乾いた音が響き渡った。
 
@@ -50,6 +52,4 @@
 
 「何故って、生きる為だよ」
 
-（了）
-
-
+[mark:（了）]

@@ -3,14 +3,16 @@
 ## outofbro
 
 ::title = 兄は外
-::camera = カメラ
-::stage = ステージ
+::camera = kitoh
+::stage = KitohHome
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[kitoh:be:]
+[:draw:]
 「兄は今、外出しておりますが」
 
 　今年は雪こそ降らなかったが、流石に節分だけあって寒さが肌に突き刺す。
@@ -56,6 +58,6 @@
 　玄関を出ると、すぐそこにＡ太がいた。俺を見て彼はまるで化物でも前にしているかのように呻く。
 「お、お前、その格好……」
 　あ。
-　服は、うちだった。（了）
+　服は、うちだった。
 
-
+[mark:（了）]

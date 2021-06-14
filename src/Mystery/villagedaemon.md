@@ -3,14 +3,17 @@
 ## villagedaemon
 
 ::title = 村鬼
-::camera = カメラ
-::stage = ステージ
+::camera = ayako
+::stage = HinoeVilla
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[hikoichi:be:]
+[ayako:be:]
+[:draw:]
 　もう直ぐ又、あの季節が来る。
 
 　随分と風が冷たくなったな。そう言って彦一は文子の肩に己の上着を掛け、そのまま後ろから抱き締めた。
@@ -64,6 +67,5 @@
 「今度は私が鬼に、成りましょう」
 
 　踏み締めた初霜はひりひりと泣いた。
-（了）
 
-
+[mark:（了）]

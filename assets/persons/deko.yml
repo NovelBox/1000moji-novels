@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: deko
+  name: 出子
+  fullname: 新井,出子
+  age: 25
+  sex: female
+  job: 無職
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

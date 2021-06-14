@@ -3,14 +3,16 @@
 ## edgeofgaia
 
 ::title = ガイアの端っこ
-::camera = カメラ
-::stage = ステージ
+::camera = natsu
+::stage = EdgeRoom
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[natsu:be:]
+[:draw:]
 「ねえ母さん。どうしてわたしは妹と離ればなれなの？」
 「ねえ父さん。どうしてわたしは姉と離ればなれなの？」
 　海の波立つのを見つめながらナツは言った。
@@ -61,6 +63,5 @@
 　海が波立つ。
 　そして、またあの人たちはやってくる。
 　そして、もう二度とあの人たちには会わない。
-（了）
 
-
+[mark:（了）]

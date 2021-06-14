@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: cman
+  name: Ｃ男
+  fullname: Ａ田,Ｃ男
+  age: 18
+  sex: male
+  job: 学生
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

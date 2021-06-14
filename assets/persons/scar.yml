@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: scar
+  name: スカル
+  fullname: スズキ,ルーカス
+  age: 30
+  sex: male
+  job: 兵士
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

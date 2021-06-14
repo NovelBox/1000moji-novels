@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: maruoka
+  name: 丸岡
+  fullname: 丸岡,正則
+  age: 37
+  sex: male
+  job: 教習所指導員
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

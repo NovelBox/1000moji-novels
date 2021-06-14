@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: mogan
+  name: モーガン
+  fullname: トマス,モーガン
+  age: 28
+  sex: male
+  job: 斧職人
+  belong: 個人
+  calling:
+    me: 俺
+  note: 備考

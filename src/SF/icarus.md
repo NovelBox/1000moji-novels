@@ -3,14 +3,16 @@
 ## icarus
 
 ::title = イーカロスが飛ぶ時
-::camera = カメラ
-::stage = ステージ
+::camera = icarus
+::stage = Hospital
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[icarus:be:]
+[:draw:]
 01001101　01001111　01010100　01001000　01000101　01010010
 
 
@@ -76,6 +78,4 @@
 「ねえ、ぱぱ。おかあさん、どこいったの？」
 「鳥になって空に昇ったんだよ」
 
-（了）
-
-
+[mark:（了）]

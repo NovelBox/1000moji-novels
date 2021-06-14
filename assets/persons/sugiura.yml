@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sugiura
+  name: 杉浦
+  fullname: 杉浦,康孝
+  age: 56
+  sex: male
+  job: 手品師
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

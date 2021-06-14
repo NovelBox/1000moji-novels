@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: suzuyo
+  name: 鈴代
+  fullname: 三崎,鈴代
+  age: 16
+  sex: female
+  job: 学生
+  belong: 高校
+  calling:
+    me: 私
+  note: 備考

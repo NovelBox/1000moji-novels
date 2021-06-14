@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: momozono
+  name: 汀子
+  fullname: 桃園,汀子
+  age: 36
+  sex: female
+  job: 会社員
+  belong: 学校
+  calling:
+    me: 私
+  note: 備考

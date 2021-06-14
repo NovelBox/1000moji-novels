@@ -1,0 +1,5 @@
+#!SMSdata
+stage:
+  tag: Station
+  name: ステーション
+  note: 電車の駅

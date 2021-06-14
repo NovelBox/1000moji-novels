@@ -3,14 +3,16 @@
 ## goodluckbadday
 
 ::title = ツいてる日のツいてない話
-::camera = カメラ
-::stage = ステージ
+::camera = kijima
+::stage = AmusementPark
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[kijima:be:]
+[:draw:]
 　休日のお化け屋敷の列に、何故か一人で並ぶひょろりと青白い顔をした男が居た。男は独り言をぶつぶつ洩らしながら入口を潜る。係員はそれを白い目で見送ったが、不意に背筋を襲った妙な冷気に慌てて周囲を見回した。
 
 「ああいう悪戯はやめておいてもらえないかな」
@@ -48,6 +50,4 @@
 
 　さよなら。
 
-（了）
-
-
+[mark:（了）]

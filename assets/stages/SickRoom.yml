@@ -1,0 +1,5 @@
+#!SMSdata
+stage:
+  tag: SickRoom
+  name: 病室
+  note: 汎用

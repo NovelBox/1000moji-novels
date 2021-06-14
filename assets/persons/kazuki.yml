@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kazuki
+  name: 和希
+  fullname: 田岡,和希
+  age: 12
+  sex: female
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

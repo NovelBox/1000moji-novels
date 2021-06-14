@@ -1,0 +1,5 @@
+#!SMSdata
+stage:
+  tag: ExamRoom
+  name: 診察室
+  note: 汎用

@@ -1,0 +1,5 @@
+#!SMSdata
+stage:
+  tag: OnStreet
+  name: 通り
+  note: 汎用

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tsumugi
+  name: 紬
+  fullname: 野村,紬
+  age: 27
+  sex: female
+  job: アルバイト
+  belong: 医院
+  calling:
+    me: 私
+  note: 備考

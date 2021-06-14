@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: juto
+  name: 十斗
+  fullname: 三田,十斗
+  age: 13
+  sex: male
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

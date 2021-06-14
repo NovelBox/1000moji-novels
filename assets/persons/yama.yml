@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yama
+  name: 山基
+  fullname: 山基,大毅
+  age: 30
+  sex: male
+  job: 刑事
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

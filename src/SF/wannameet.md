@@ -3,14 +3,16 @@
 ## wannameet
 
 ::title = ただ会いたくて
-::camera = カメラ
-::stage = ステージ
+::camera = scar
+::stage = MataiDesert
 ::location = INT
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
 ::outline = 概要
 
+[scar:be:]
+[:draw:]
 　ハウリングを起こしそうな空白だった。
 　爆風が駆け抜け大量の粉塵が舞い上がる。それを察知した時には既に遅く、男は、いや、かつて男だったものは伏せる間も無く真正面からそれを受け止める。瞬時に皮膚が銀色の鱗となり、その幾枚かが飛び散った。
 
@@ -54,6 +56,4 @@
 　会いたい。
 　ただ、会いたい。
 
-（了）
-
-
+[mark:（了）]

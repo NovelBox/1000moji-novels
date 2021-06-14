@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: uchiyama
+  name: 内山
+  fullname: 内山,誠吾
+  age: 35
+  sex: male
+  job: 医師
+  belong: 内山クリニック
+  calling:
+    me: 俺
+  note: 備考

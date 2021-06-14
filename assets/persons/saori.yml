@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: saori
+  name: 沙織
+  fullname: 水木,沙織
+  age: 36
+  sex: female
+  job: 会社員
+  belong: 学校
+  calling:
+    me: 私
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: makishima
+  name: 蒔島
+  fullname: 蒔島,秀作
+  age: 56
+  sex: male
+  job: 研究者
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考
