@@ -4,7 +4,7 @@
 
 ::title = 電子蝶は夢を舞う
 ::camera = harano
-::stage = ThreLabo
+::stage = ToreLabo
 ::location = INT
 ::year = 2021
 ::date = 1/1
