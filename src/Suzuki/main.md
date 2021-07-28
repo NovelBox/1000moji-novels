@@ -30,37 +30,6 @@
 73.ひまなツリー
 86.ツいてる日
 
-## santacraus
-
-::title = サンタクロースの再訪
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## backtomoon
-
-::title = 月に帰る君を想う
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
 ## thanksforreturn
 
 ::title = その見返りに感謝して
@@ -93,38 +62,6 @@
 概要
 
 
-## alienceremony
-
-::title = 異星人式
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## tears
-
-::title = Tears
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
 ## nofullmoon
 
 ::title = 満ちない月
@@ -139,56 +76,6 @@
 
 [plot]
 概要
-
-
-## idletree
-
-::title = ひまなツリー
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## goodluck
-
-::title = ツいてる日
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## suzukixmas
-
-::title = 鈴木教のクリスマス
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
 
 
 

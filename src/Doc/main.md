@@ -27,99 +27,9 @@
 77.大樹
 96.レプリカントの死
 
-## digitalbutterfly
-
-::title = 電子蝶は夢を舞う
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## icarusflying
-
-::title = イーカロスが飛ぶとき
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## starbirth
-
-::title = 星が生まれるとき
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## braintears
-
-::title = 脳が電子の涙を流すとき
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
 ## rubblestar
 
 ::title = 瓦礫の星
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## russiandollslost
-
-::title = ロシア人形の喪失
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## lastrobot
-
-::title = 最後のロボット
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT

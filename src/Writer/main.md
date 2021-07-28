@@ -38,52 +38,6 @@
 98.生きること
 99.エッセィ
 
-## preface
-
-::title = まえがき
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## thepunishment
-
-::title = 罰
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## tearsriver
-
-::title = 涙の大河
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
 
 ## trigger
 
@@ -100,37 +54,6 @@
 [plot]
 概要
 
-
-## noendofdream
-
-::title = ユメオチナイ
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## overthefire
-
-::title = 迎え火の向こう
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
 ## dead
@@ -165,41 +88,10 @@
 概要
 
 
-## delete
-
-::title = デリート
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
 
 ## breakmental
 
 ::title = 精神曼解叫
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## songbug
-
-::title = 歌蟲は悲しみを奏でる
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT
@@ -248,38 +140,6 @@
 ## icecream
 
 ::title = Ice cream
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## alive
-
-::title = 生きること
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## essay
-
-::title = エッセィ千文字小説百物語
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT

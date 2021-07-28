@@ -29,36 +29,6 @@
 72.金木犀の骸
 91.奉仕者
 
-## museum
-
-::title = Museum
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## donotreport
-
-::title = それは真実を伝えていない
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
 
 ## sandbuilding
 
@@ -108,36 +78,6 @@
 概要
 
 
-## statue
-
-::title = 像
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## notomorrownote
-
-::title = 明日が来ないノート
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 ## osmanthus
 
@@ -154,21 +94,6 @@
 [plot]
 概要
 
-
-## servicer
-
-::title = 奉仕者
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
 [plot:銃]

@@ -32,40 +32,9 @@
 89.別の空
 94.教習所にて
 
-## face
-
-::title = 顔
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
 ## gun
 
 ::title = 銃
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## station
-
-::title = Station
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT
@@ -95,54 +64,6 @@
 概要
 
 
-## soilsmell
-
-::title = 土の臭い、彼女の味
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## jingai
-
-::title = 人街
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## rightofhuman
-
-::title = Right of Human
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
 ## loosenscrew
 
 ::title = それでも螺子は緩み続ける
@@ -159,57 +80,9 @@
 概要
 
 
-## granmatime
-
-::title = 祖母の時間
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## stadium
-
-::title = Stadium
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
 ## anothersky
 
 ::title = 別の空
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## drivingschool
-
-::title = 教習所にて
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT
