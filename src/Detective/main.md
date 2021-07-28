@@ -33,6 +33,171 @@
 82.空は青く、山は緑で
 88.天使の粛清
 
+## tie3sets
+
+::title = 三本千円
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## labyrinth2000a
+
+::title = 二千字の迷宮・前編
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## labyrinth2000b
+
+::title = 二千字の迷宮・後編
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## murderlecture
+
+::title = 殺人講義
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## pierrot
+
+::title = 道化
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## blade
+
+::title = 刃
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## drop
+
+::title = 雫
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## heat
+
+::title = 熱
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## plant
+
+::title = 植える
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## skybluemountgreen
+
+::title = 空は青く、山は緑で
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## purgingangels
+
+::title = 天使の粛清
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
 [plot:二千字の迷宮]
 刑事として関わったある事件
 旧家の資産家の屋敷で、殺人事件が発生する

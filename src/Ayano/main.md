@@ -23,6 +23,53 @@
 42.村鬼
 100.あなたへ
 
+## onlyonelove
+
+::title = ただ一つの愛
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## villadaemon
+
+::title = 村鬼
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## foryou
+
+::title = あなたへ
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+
 [plot:罰]
 人形師の女として、生きていた
 実は彼女はMuseumで産み落とされた忌み子である

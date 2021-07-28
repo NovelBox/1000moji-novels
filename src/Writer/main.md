@@ -38,6 +38,262 @@
 98.生きること
 99.エッセィ
 
+## preface
+
+::title = まえがき
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## thepunishment
+
+::title = 罰
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## tearsriver
+
+::title = 涙の大河
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## trigger
+
+::title = 回転式
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## noendofdream
+
+::title = ユメオチナイ
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## overthefire
+
+::title = 迎え火の向こう
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## dead
+
+::title = 死ぬこと
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## coffeebreak
+
+::title = コーヒーブレイク
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## delete
+
+::title = デリート
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## breakmental
+
+::title = 精神曼解叫
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## songbug
+
+::title = 歌蟲は悲しみを奏でる
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## unfinishedours
+
+::title = 未完成な僕等
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## papertellsdream
+
+::title = 原稿用紙は夢を語る
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## icecream
+
+::title = Ice cream
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## alive
+
+::title = 生きること
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## essay
+
+::title = エッセィ千文字小説百物語
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+
 [plot:まえがき]
 百物語って知ってますか
 それは編集が持ち込んできた企画だった

@@ -29,6 +29,148 @@
 72.金木犀の骸
 91.奉仕者
 
+## museum
+
+::title = Museum
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## donotreport
+
+::title = それは真実を伝えていない
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## sandbuilding
+
+::title = 砂のビル
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## missingany
+
+::title = 欠落しているのは感情ではない
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## coupleindrawing
+
+::title = 額の中の番
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## statue
+
+::title = 像
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## notomorrownote
+
+::title = 明日が来ないノート
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+## osmanthus
+
+::title = 金木犀の骸
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
+## servicer
+
+::title = 奉仕者
+::camera = カメラ
+::stage = ステージ
+::location = INT
+::year = 2021
+::date = 1/1
+::time = afternoon
+::outline = 概要
+::flags = nospin
+
+[plot]
+概要
+
+
 [plot:銃]
 
 珍しくその日は家族で過ごしていた
