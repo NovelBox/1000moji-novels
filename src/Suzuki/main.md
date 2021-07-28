@@ -30,52 +30,6 @@
 73.ひまなツリー
 86.ツいてる日
 
-## thanksforreturn
-
-::title = その見返りに感謝して
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## themark
-
-::title = 印
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## nofullmoon
-
-::title = 満ちない月
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
 

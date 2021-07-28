@@ -1,6 +1,6 @@
 #!SMSscript
 
-## blueskymountgreen
+## skybluemountgreen
 
 ::title = 空は青く、山は緑で
 ::camera = fujimori

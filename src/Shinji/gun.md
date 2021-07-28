@@ -1,8 +1,8 @@
 #!SMSscript
 
-## death
+## gun
 
-::title = 死神
+::title = 銃
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT
@@ -12,8 +12,7 @@
 ::outline = 概要
 ::flags = nospin
 
-[note:作品リスト]
-51.ある死神の戸惑い
-97.外は雨、コーヒーの湯気
+[plot]
+概要
 
 

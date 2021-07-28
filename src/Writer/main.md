@@ -39,118 +39,12 @@
 99.エッセィ
 
 
-## trigger
-
-::title = 回転式
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
 
-## dead
-
-::title = 死ぬこと
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## coffeebreak
-
-::title = コーヒーブレイク
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
 
-## breakmental
-
-::title = 精神曼解叫
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## unfinishedours
-
-::title = 未完成な僕等
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## papertellsdream
-
-::title = 原稿用紙は夢を語る
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## icecream
-
-::title = Ice cream
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
 

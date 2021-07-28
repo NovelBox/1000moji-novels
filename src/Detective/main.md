@@ -33,51 +33,6 @@
 82.空は青く、山は緑で
 88.天使の粛清
 
-## tie3sets
-
-::title = 三本千円
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## skybluemountgreen
-
-::title = 空は青く、山は緑で
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## purgingangels
-
-::title = 天使の粛清
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
 [plot:二千字の迷宮]
 刑事として関わったある事件
 旧家の資産家の屋敷で、殺人事件が発生する

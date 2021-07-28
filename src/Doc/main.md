@@ -27,51 +27,6 @@
 77.大樹
 96.レプリカントの死
 
-## rubblestar
-
-::title = 瓦礫の星
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## bigtree
-
-::title = 大樹
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-## replicantdead
-
-::title = レプリカントの死
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
 [plot:イーカロスが飛ぶとき]
 開発したロボット兵器に使った息子の頭脳
 しかし彼はいつも飛んで自殺する

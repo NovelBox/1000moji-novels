@@ -32,68 +32,8 @@
 89.別の空
 94.教習所にて
 
-## gun
-
-::title = 銃
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
-## linework
-
-::title = ライン工
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## loosenscrew
-
-::title = それでも螺子は緩み続ける
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
-
-
-## anothersky
-
-::title = 別の空
-::camera = カメラ
-::stage = ステージ
-::location = INT
-::year = 2021
-::date = 1/1
-::time = afternoon
-::outline = 概要
-::flags = nospin
-
-[plot]
-概要
 
 
 
