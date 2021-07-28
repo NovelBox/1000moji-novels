@@ -1,8 +1,8 @@
 #!SMSscript
 
-## others
+## emi
 
-::title = その他
+::title = 絵美
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT
@@ -13,9 +13,5 @@
 ::flags = nospin
 
 [note:作品リスト]
-3.オルゴール
-5.黒い夕陽
-17.木
-25.場末のベヒシュタイン
-45.戦火の記憶
-75.晴れ舞台のグァルネリ
+11.蜘蛛の巣
+37.面

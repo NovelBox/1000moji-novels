@@ -1,8 +1,8 @@
 #!SMSscript
 
-## idol
+## lady
 
-::title = アイドル
+::title = 令嬢
 ::camera = カメラ
 ::stage = ステージ
 ::location = INT
@@ -11,6 +11,16 @@
 ::time = afternoon
 ::outline = 概要
 ::flags = nospin
+
+[note:作品リスト]
+22.舌
+29.目
+33.影
+58.彼女の罪と罰
+62.モンスター
+67.Box office
+87.ドリームガール
+92.おにぎり
 
 [plot:テーマ]
 
