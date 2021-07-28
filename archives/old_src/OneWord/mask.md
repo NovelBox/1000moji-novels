@@ -1,6 +1,6 @@
 #!SMSscript
 
-## face
+## mask
 
 ::title = 面
 ::camera = suzuyo
