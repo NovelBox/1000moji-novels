@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: lion
+  name: リオン
+  fullname: サイガ,リオン
+  age: 15
+  sex: male
+  job: 戦士
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

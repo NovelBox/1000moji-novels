@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: emiri
+  name: 恵美里
+  fullname: 飯野,恵美里
+  age: 37
+  sex: female
+  job: 無職
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

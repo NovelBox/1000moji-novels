@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tree
+  name: 木
+  fullname: 小さな,木
+  age: 10
+  sex: male
+  job: 樹木
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

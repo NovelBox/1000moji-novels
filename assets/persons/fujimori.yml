@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: fujimori
+  name: 藤森
+  fullname: 藤森,豊
+  age: 33
+  sex: male
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

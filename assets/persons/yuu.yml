@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yuu
+  name: 佑
+  fullname: 海堂,佑
+  age: 10
+  sex: male
+  job: 学生
+  belong: 学校
+  calling:
+    me: 俺
+  note: 備考

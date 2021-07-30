@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yabuki
+  name: 矢吹
+  fullname: 矢吹,達哉
+  age: 35
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yamatao
+  name: ヤマタオ
+  fullname: ヤマト,ヤマタオ
+  age: 25
+  sex: male
+  job: 会社員
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

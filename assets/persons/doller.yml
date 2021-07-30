@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: doller
+  name: 女
+  fullname: 雪村,沙也可
+  age: 35
+  sex: female
+  job: 人形師
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

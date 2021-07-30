@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: hayama
+  name: 端山
+  fullname: 端山,淳二
+  age: 28
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: 俺
+  note: 備考

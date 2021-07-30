@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: mbox
+  name: オルゴール
+  fullname: ななし,ななし
+  age: 50
+  sex: male
+  job: オルゴール
+  belong: フリー
+  calling:
+    me: ぼく
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: xmastree
+  name: クリスマスツリー
+  fullname: クリス,ツリー
+  age: 33
+  sex: male
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

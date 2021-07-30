@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yazaki
+  name: ヤザキ
+  fullname: ヤザキ,マサオ
+  age: 10
+  sex: male
+  job: 無職
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

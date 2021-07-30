@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: aoyagi
+  name: 青柳
+  fullname: 青柳,健人
+  age: 35
+  sex: male
+  job: 会社員
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kurokawa
+  name: 英嗣
+  fullname: 黒河,英嗣
+  age: 32
+  sex: male
+  job: 無職
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

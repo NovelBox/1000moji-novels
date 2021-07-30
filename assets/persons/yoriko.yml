@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yoriko
+  name: 依子
+  fullname: 南本,依子
+  age: 36
+  sex: female
+  job: 会社員
+  belong: 学校
+  calling:
+    me: 私
+  note: 備考

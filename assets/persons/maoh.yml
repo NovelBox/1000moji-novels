@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: maho
+  name: 魔王
+  fullname: 魔王,魔王
+  age: 56
+  sex: male
+  job: 魔王
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

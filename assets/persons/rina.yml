@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: rina
+  name: 里奈
+  fullname: 赤川,里奈
+  age: 32
+  sex: female
+  job: 看護師
+  belong: 無所属
+  calling:
+    me: 私
+  note: 備考

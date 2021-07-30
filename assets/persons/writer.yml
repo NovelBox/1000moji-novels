@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: writer
+  name: 小説家
+  fullname: 伊勢崎,真人
+  age: 56
+  sex: male
+  job: 小説家
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yumemi
+  name: 夢見
+  fullname: 夢見,悪三
+  age: 37
+  sex: male
+  job: 会社員
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

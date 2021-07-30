@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: shino
+  name: シノ
+  fullname: 影岡,シノ
+  age: 13
+  sex: female
+  job: 学生
+  belong: 学校
+  calling:
+    me: 私
+  note: 備考

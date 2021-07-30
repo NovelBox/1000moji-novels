@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: hamazaki
+  name: 浜崎
+  fullname: 浜崎,元次郎
+  age: 56
+  sex: male
+  job: 清掃員
+  belong: クリーニング会社
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ryota
+  name: 涼太
+  fullname: 竹脇,涼太
+  age: 10
+  sex: male
+  job: 学生
+  belong: 学校
+  calling:
+    me: 俺
+  note: 備考

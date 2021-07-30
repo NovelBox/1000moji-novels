@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: nogi
+  name: 野義
+  fullname: 野義,由高
+  age: 32
+  sex: male
+  job: カメラマン
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

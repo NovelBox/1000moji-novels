@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: hisako
+  name: 久子
+  fullname: 南波,久子
+  age: 32
+  sex: female
+  job: 役者
+  belong: フリー
+  calling:
+    me: 私
+  note: 備考

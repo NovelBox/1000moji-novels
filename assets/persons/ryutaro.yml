@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ryutaro
+  name: 恐竜
+  fullname: 恐竜,太郎
+  age: 33
+  sex: male
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: taku
+  name: タク
+  fullname: 円堂,タク
+  age: 28
+  sex: male
+  job: アルバイト
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: marui
+  name: 丸井
+  fullname: 丸井,恒夫
+  age: 56
+  sex: male
+  job: 会社員
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: iori
+  name: 伊織
+  fullname: 矢越,伊織
+  age: 28
+  sex: male
+  job: 作家
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

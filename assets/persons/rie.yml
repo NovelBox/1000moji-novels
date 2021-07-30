@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: rie
+  name: 梨衣
+  fullname: 矢吹,梨衣
+  age: 32
+  sex: female
+  job: 主婦
+  belong: 無所属
+  calling:
+    me: 私
+  note: 備考

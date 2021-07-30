@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ryu
+  name: 柳
+  fullname: 柳,申兼
+  age: 56
+  sex: male
+  job: ピアニスト
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

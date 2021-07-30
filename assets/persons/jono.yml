@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: jono
+  name: 城野
+  fullname: 城野,王児
+  age: 45
+  sex: male
+  job: 実業家
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

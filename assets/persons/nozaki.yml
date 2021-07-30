@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: nozaki
+  name: 野崎
+  fullname: 野崎,勇人
+  age: 56
+  sex: male
+  job: チケット売り
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

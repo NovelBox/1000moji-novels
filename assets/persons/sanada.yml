@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sanada
+  name: 真田
+  fullname: 真田,篤史
+  age: 28
+  sex: male
+  job: 新聞記者
+  belong: 新聞社
+  calling:
+    me: 俺
+  note: 備考

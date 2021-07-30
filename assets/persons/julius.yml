@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: julius
+  name: ユリウス
+  fullname: チェーザレ,ユリウス
+  age: 28
+  sex: male
+  job: 農家
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

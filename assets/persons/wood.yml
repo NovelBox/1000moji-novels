@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: wood
+  name: ウッド
+  fullname: テヌイ,ウッド
+  age: 15
+  sex: male
+  job: 探索者
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考
