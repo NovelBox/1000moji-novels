@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 男は車を愛していた。しかしそれが妻に理解されず、会社でもうまくいかず、自殺を考えていた。だが車の中であるものを見つけてしまう
 
 [yabuki:be:]
 [:draw:]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 新社会人は遅刻しそうになり、急いでいた。だが駅の階段で転んでしまう。
 ::flags = nospin
 
 [plot]

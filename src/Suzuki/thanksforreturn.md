@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 少年は教わった通りに「見返り」を与えながら生きてきた。だがそれは間違ったことで、ついに警察が迎えにやってきた
 ::flags = nospin
 
 [plot]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 鳴らないオルゴールが、その家にはあった。少女の部屋に置かれたオルゴールは何故自分は鳴らないのか、考えていた
 
 [mbox:be:]
 [maria:be:]

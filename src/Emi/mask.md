@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = ある文化教室。そこでは自分の面を掘ることを教えていた。通っていたある女性は教室に通ううち、徐々に笑顔になるようになったが
 
 [suzuyo:be:]
 [:draw:]

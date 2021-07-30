@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 小さい頃、田舎の祖父の屋敷に行く。そこでお盆の迎え火という儀式を父から教わる。
 
 [kazuki:be:]
 [:draw:]

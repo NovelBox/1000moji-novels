@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 目の前に銃があった。それを手にし、本棚に向ける。名作を一つ一つ殺していく。やがてその銃口は自分自身へと向けられた
 ::flags = nospin
 
 [plot]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 病院の消灯時間が近づく。病室に集まった患者たちは電子チェスに興じていた
 ::flags = nospin
 
 [plot]

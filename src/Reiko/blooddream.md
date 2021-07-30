@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 看護師の女性は最近よく妙な夢を見ていた。夢はモノクロが多いが、その夢は一つだけ色がついていた。血の赤だ
 
 [rina:be:]
 [:draw:]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 転校生だった。都会の香りのする女性にあてられ、少年は授業中にもかかわらず学校を抜け出した
 
 [tsumori:be:]
 [michi:be:]

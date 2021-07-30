@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 看護師の女性は入院している老夫婦が見舞いの際にいつも素っ気ない態度なことを気にして助言する。しかしこれでいいんですと言う
 
 [sayaka:be:]
 [:draw:]

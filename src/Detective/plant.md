@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = そこは不思議な植物園だった。この世ならざる植物ばかりが植わっている。ある客は謎の苗木を植える。それは育つとやがて人の姿を取る。
 
 [asakawa:be:]
 [:draw:]

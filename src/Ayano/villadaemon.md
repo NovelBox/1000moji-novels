@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 江戸と呼ばれた時代。深い森の中、奥深くにあった小さな村に伝わるしきたりに従い、人身御供の巫女に選ばれた彼女は、その夜にお堂へと閉じ込められた
 
 [hikoichi:be:]
 [ayako:be:]

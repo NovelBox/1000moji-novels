@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = その日の朝、大切な彼氏と別れ、一人になって戻ってきた。眠ることはできず、午後を迎えていた
 ::flags = nospin
 
 [plot]

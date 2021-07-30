@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 駅前には先日この国初の大統領になった男の銅像が建っていた。だがある男はその下を掘り返す。そこには男の秘密が眠っていた
 
 [taroh:be:]
 [:draw:]

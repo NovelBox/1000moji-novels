@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 星が消えてしまった世界。夜は暗いもので、天文学者はいつも暗い空を見上げて星を探していた
 
 [chito:be:]
 [:draw:]

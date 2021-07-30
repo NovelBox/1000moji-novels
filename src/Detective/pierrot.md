@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 刑事はある事件の取り調べを行っていた。しかしどんな質問にもにこやかに答える彼が犯人とは思えなかった
 
 [haku:be:]
 [:draw:]

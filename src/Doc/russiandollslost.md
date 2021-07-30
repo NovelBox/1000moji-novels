@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 研究室に不思議な人形が持ち込まれた。それは自分で自殺してしまう不思議な人形だった
 
 [rus:be:]
 [:draw:]

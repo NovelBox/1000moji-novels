@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 小学校の友人にいつも手品を見せてもらっていた。自分の目の色が他人と違うことにコンプレックスがあった彼女は自分の目を消してほしいと頼む
 
 [elza:be:]
 [misono:be:]

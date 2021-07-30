@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 小さなクリニックに勤める女性はそこによくやってくる父子と仲良くしていた。しかし妻子ある男性への恋心は日に日に彼女を蝕んでいく
 
 [tsumugi:be:]
 [uchiyama:be:]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 軍事兵器として開発されたイーカロスは、しかし何故かいつも病室から飛び出して自殺してしまう
 
 [icarus:be:]
 [:draw:]

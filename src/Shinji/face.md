@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 少年の父親はピエロをやっていた。仕事の内容がよく分からず、笑われているだけの父のことを、母親に尋ねる
 
 [ryota:be:]
 [:draw:]

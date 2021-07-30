@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = その人物は生まれる前の記憶を思い出す。それは一つのアイスクリームが生まれ、死んでいくプロセス
 ::flags = nospin
 
 [plot]

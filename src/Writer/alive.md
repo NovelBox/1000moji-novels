@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 作家は喫茶店から出たところで、裸足で服の汚れた女性が道路を駆け抜けていくのを目撃し、彼女を助ける
 
 [seita:be:]
 [:draw:]

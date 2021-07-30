@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 大災害の後で、すべてを失ってしまった男はうなだれていた。小学校では生き残った人たちで炊き出しを行っている。だが男はその気力すらなく
 
 [fujimori:be:]
 [:draw:]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 遥か昔。戦闘民族である巨人族の青年は、戦いに疲れ果てていた。そんな中、不思議な「歌」と呼ばれるものを使っている歌虫と出会った
 
 [wood:be:]
 [nikea:be:]

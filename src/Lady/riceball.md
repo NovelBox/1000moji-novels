@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = ある女性は失意の中、そのペンションの前で倒れていた。ペンションの主に拾われ、事情を聞かれると、死のうと思っていた経緯について語り始めた
 
 [yuyama:be:]
 [daichi:be:]

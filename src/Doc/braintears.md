@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 脳だけにして永遠の生命を得るブレインシステム。その中では決して殺人事件など起こらないはずだった。だが殺人が発生する
 
 [ohtsuka:be:]
 [:draw:]

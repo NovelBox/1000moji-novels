@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 転職し、新しい職場へとやってきた男。だがそこはもぬけの殻で、誰もいない。ただ指示書だけが置かれていた
 
 [hayama:be:]
 [:draw:]

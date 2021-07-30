@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 教習所に通っていたある男性は、うまく車を動かせないでいた。指導員は落ち着いて、と促すが
 
 [aoyagi:be:]
 [maruoka:be:]

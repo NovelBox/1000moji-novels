@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 捨てられたブラウン管と古いパソコン。その中では博士によって生み出された電子生命体がまだ生きながらえていた
 
 [harano:be:]
 [:draw:]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 飛空艇で延々と海が続く星を飛んでいた。全てが水に包まれてしまったとされるその星で、青年はあるものを見つける
 ::flags = nospin
 
 [plot]

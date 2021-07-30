@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 遊園地を黒ずくめの男性が一人歩いていた。彼は空白に話しかける。そこには女の幽霊がいた
 
 [kijima:be:]
 [:draw:]

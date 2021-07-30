@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 老犬の散歩をする。少女は最近あまり動きたがらない彼が今日はやけに懐かしい道を歩くことに疲れ果てていた
 
 [yuu:be:]
 [:draw:]

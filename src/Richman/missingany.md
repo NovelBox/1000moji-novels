@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 男は精神科に通っていた。大切な人を失ったけれど、未だに泣くことができないのだ。しかしその精神科医は言う。君が失った本当のものは何かと
 ::flags = nospin
 
 [plot]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 毎日お悔やみ欄の名前をノートに書き写している男がいた
 
 [tokita:be:]
 [:draw:]

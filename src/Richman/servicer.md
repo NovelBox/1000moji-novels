@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 世界有数の奉仕者となった男をインタビューすることになった女性記者
 
 [mika:be:]
 [:draw:]

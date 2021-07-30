@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 二十歳になり、娘は父親に呼び出される。あるビルへと連れて行かれると、そこでは異星人たちが集会をしていた
 
 [cman:be:]
 [:draw:]

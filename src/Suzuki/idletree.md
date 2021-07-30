@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 三月が近づき、物置の中で雛人形がアップを始める。それを見て、他の飾り道具たちはこそこそと雑談を始める
 
 [xmastree:be:]
 [:draw:]

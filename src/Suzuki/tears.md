@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 映画館で泣いている女がいた。その女に涙をくれませんか、と話しかける白衣の女。涙の研究をしているという
 
 [nagisa:be:]
 [izumi:be:]

@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = 新聞記者は審判が下された裁判の記事を振り返り、事実と違うことを書いてしまった自分を非難した被害者の娘の声を思い返していた
 
 [sanada:be:]
 [:draw:]

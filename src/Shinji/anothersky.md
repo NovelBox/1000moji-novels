@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = ごみ処理場で働いているロボットだった。そこでかつて教師から教わったことを思い出す。空はどこでもつながっていると。
 ::flags = nospin
 
 [plot]

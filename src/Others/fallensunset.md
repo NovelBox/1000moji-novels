@@ -9,7 +9,7 @@
 ::year = 2021
 ::date = 1/1
 ::time = afternoon
-::outline = 概要
+::outline = その男女はじっとものを語らず、巨大な夕陽が落ちていくのを見ていた。周囲は騒がしくなるが、二人の愛は何事にも動じない。そう信じて
 
 [ryutaro:be:]
 [:draw:]
