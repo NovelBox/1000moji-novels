@@ -6,11 +6,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.3.0] - 2021-08-02
+### Added
+- story plots
+
 ## [0.2.0] - 2021-07-30
 ### Added
 - archive novels
 - scene outlines
 
-[Unreleased]: https://github.com/NovelBox/1000moji-novels/compare/v0.2.0...HEAD
+[Unreleased]: https://github.com/NovelBox/1000moji-novels/compare/v0.3.0...HEAD
+[0.3.0]: https://github.com/NovelBox/1000moji-novels/releases/v0.3.0
 [0.2.0]: https://github.com/NovelBox/1000moji-novels/releases/v0.2.0
 [0.1.0]: https://github.com/NovelBox/1000moji-novels/releases/v0.1.0
