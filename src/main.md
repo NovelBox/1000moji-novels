@@ -12,6 +12,12 @@
 蒐集のしゅうで、集めたものという意味。
 会意。艸と、鬼（死んだ人）とから成り、死者の血のあとに生えると言い伝えられる草、「あかね」の意を表す。借りて「あつめる」意に用いる。
 
+[plot:main]
+作家の$namikiは売れ行きが芳しくなく悩んでいた
+そんな折、打ち合わせで担当編集から百物語になぞらえたショートストーリーを百話書くという企画を持ちかけられる
+$namikiは挑戦してみることにし、作品を書き始めた
+すると彼の周囲で奇妙なことが起こり始めたのだった
+
 [note:作品順序]
 1.まえがき
 2.罰
@@ -118,39 +124,39 @@
 
 <preface>
 <thepunishment>
-<musicbox>
 <digitalbutterfly>
-<fallensunset>
+<musicbox>
+<face>
 <santaclaus>
 <museum>
-<face>
+<fallensunset>
 <tearsriver>
 <gun>
 
 # 11-20
 
-<spiderweb>
 <afternoonaffair>
+<backtomoon>
+<spiderweb>
+<tree>
 <donotreport>
 <icarusflying>
-<backtomoon>
 <turnoff>
-<tree>
 <onlyonelove>
 <breakupafternoon>
-<suzukixmas>
+<station>
 
 # 21-30
 
-<station>
+<tie3sets>
+<suzukixmas>
 <tongue>
 <sandbuilding>
-<tie3sets>
 <dingybechstein>
 <thanksforreturn>
 <tumor>
-<starbirth>
 <eye>
+<starbirth>
 <trigger>
 
 # 31-40
@@ -160,8 +166,8 @@
 <shadow>
 <themark>
 <blooddream>
-<linework>
 <mask>
+<linework>
 <substitute>
 <murderlecture>
 <noendofdream>
@@ -184,21 +190,21 @@
 <deathconfused>
 <nofullmoon>
 <coupleindrawing>
-<pierrot>
-<rubblestar>
 <russiandollslost>
+<rubblestar>
 <statue>
-<sinandpunishment>
-<lastrobot>
+<pierrot>
+<blade>
+<monster>
 <delete>
 
 # 61-70
 
-<blade>
-<monster>
 <jingai>
 <car>
 <house>
+<lastrobot>
+<sinandpunishment>
 <drop>
 <boxoffice>
 <notomorrownote>

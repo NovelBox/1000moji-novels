@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: hikoichi
-  name: 彦一
-  fullname: 杉田,彦一
+  tag: shinji
+  name: シンジ
+  fullname: 日陰,シンジ
   age: 28
   sex: male
-  job: 農家
+  job: 派遣
   belong: 個人
   calling:
     me: 俺

@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: rei
-  name: レイ
-  fullname: 花月,レイ
-  age: 25
+  tag: ayano
+  name: 文乃
+  fullname: 雪村,文乃
+  age: 35
   sex: female
-  job: 無職
+  job: 人形師
   belong: 個人
   calling:
     me: 私

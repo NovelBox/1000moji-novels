@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: emiri
-  name: 恵美里
-  fullname: 飯野,恵美里
-  age: 37
+  tag: reiko
+  name: レイコ
+  fullname: 日陰,レイコ
+  age: 25
   sex: female
-  job: 無職
+  job: 看護師
   belong: 個人
   calling:
     me: 私

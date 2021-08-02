@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: doller
-  name: 女
-  fullname: 雪村,沙也可
-  age: 35
+  tag: hana
+  name: 花
+  fullname: 木崎,花
+  age: 17
   sex: female
-  job: 人形師
+  job: 無職
   belong: 個人
   calling:
     me: 私
