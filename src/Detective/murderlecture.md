@@ -2,7 +2,7 @@
 
 ## murderlecture
 
-::title = 殺人抗議
+::title = 殺人講義
 ::camera = sezaki
 ::stage = Classroom
 ::location = INT

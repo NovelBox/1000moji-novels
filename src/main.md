@@ -124,39 +124,39 @@ $namikiは挑戦してみることにし、作品を書き始めた
 
 <preface>
 <thepunishment>
-<musicbox>
 <digitalbutterfly>
-<fallensunset>
+<musicbox>
+<face>
 <santaclaus>
 <museum>
-<face>
+<fallensunset>
 <tearsriver>
 <gun>
 
 # 11-20
 
-<spiderweb>
 <afternoonaffair>
+<backtomoon>
+<spiderweb>
+<tree>
 <donotreport>
 <icarusflying>
-<backtomoon>
 <turnoff>
-<tree>
 <onlyonelove>
 <breakupafternoon>
-<suzukixmas>
+<station>
 
 # 21-30
 
-<station>
+<tie3sets>
+<suzukixmas>
 <tongue>
 <sandbuilding>
-<tie3sets>
 <dingybechstein>
 <thanksforreturn>
 <tumor>
-<starbirth>
 <eye>
+<starbirth>
 <trigger>
 
 # 31-40
@@ -166,8 +166,8 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <shadow>
 <themark>
 <blooddream>
-<linework>
 <mask>
+<linework>
 <substitute>
 <murderlecture>
 <noendofdream>
@@ -190,21 +190,21 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <deathconfused>
 <nofullmoon>
 <coupleindrawing>
-<pierrot>
-<rubblestar>
 <russiandollslost>
+<rubblestar>
 <statue>
-<sinandpunishment>
-<lastrobot>
+<pierrot>
+<blade>
+<monster>
 <delete>
 
 # 61-70
 
-<blade>
-<monster>
 <jingai>
 <car>
 <house>
+<lastrobot>
+<sinandpunishment>
 <drop>
 <boxoffice>
 <notomorrownote>
