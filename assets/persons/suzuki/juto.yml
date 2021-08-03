@@ -3,10 +3,10 @@ person:
   tag: juto
   name: 十斗
   fullname: 三田,十斗
-  age: 13
+  age: 10
   sex: male
-  job: 個人
-  belong: フリー
+  job: 小学生
+  belong: 小学校
   calling:
-    me: 俺
+    me: オレ
   note: 備考
