@@ -189,8 +189,8 @@ $namikiは挑戦してみることにし、作品を書き始めた
 
 <deathconfused>
 <nofullmoon>
-<coupleindrawing>
 <russiandollslost>
+<coupleindrawing>
 <rubblestar>
 <statue>
 <pierrot>
