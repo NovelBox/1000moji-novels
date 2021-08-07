@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: hiko
+  name: 彦一
+  fullname: 木村,彦一
+  age: 20
+  sex: male
+  job: 農家
+  belong: 個人
+  calling:
+    me: 俺
+  note: 備考
