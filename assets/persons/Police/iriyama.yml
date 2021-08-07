@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: fujimori
-  name: 藤森
-  fullname: 藤森,豊
-  age: 33
+  tag: iriyama
+  name: 入山
+  fullname: 入山,清秋
+  age: 56
   sex: male
-  job: 個人
+  job: 作家
   belong: フリー
   calling:
     me: 俺

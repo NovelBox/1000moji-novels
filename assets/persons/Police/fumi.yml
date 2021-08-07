@@ -1,10 +1,10 @@
 #!SMSdata
 person:
-  tag: seita
-  name: 清太
-  fullname: 結城,清太
+  tag: fumi
+  name: ふみ
+  fullname: 太田,ふみ
   age: 33
-  sex: male
+  sex: female
   job: 個人
   belong: フリー
   calling:
