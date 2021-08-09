@@ -3,11 +3,11 @@
 ## drivingschool
 
 ::title = 教習所にて
-::camera = aoyagi
+::camera = namiki
 ::stage = DrivingSchool
-::location = INT
-::year = 2021
-::date = 1/1
+::location = EXT
+::year = 2024
+::date = 5/1
 ::time = afternoon
 ::outline = 教習所に通っていたある男性は、うまく車を動かせないでいた。指導員は落ち着いて、と促すが
 
@@ -29,6 +29,21 @@ $namikiは作家をしていると語る
 それは才能を認められているのだから、地道にやっていけば結果がついてくるんじゃないか、と
 車をゆっくりと手順にそって発進させる
 「できましたね」と言ったそばからエンストした
+
+[note:場所]
+教習所
+
+[note:人物]
+生徒$namiki
+指導員$shinji
+
+[note:要素]
+教習所で、運転講習。怯えて運転失敗
+指導員との車内の会話
+$namikiの自分語り
+$shinjiの自分語り
+指導再開
+エンジン無事にかかる。がエンスト
 
 [aoyagi:be:]
 [maruoka:be:]
