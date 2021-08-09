@@ -6,8 +6,8 @@
 ::camera = kijima
 ::stage = AmusementPark
 ::location = INT
-::year = 2021
-::date = 1/1
+::year = 2022
+::date = 3/1
 ::time = afternoon
 ::outline = 遊園地を黒ずくめの男性が一人歩いていた。彼は空白に話しかける。そこには女の幽霊がいた
 
@@ -27,6 +27,21 @@
 「自分で死を選ぶのはつまらないってことくらいかな」と
 $kijimaは彼女を除霊する
 今度は人間に生まれ変われよ、と願って
+
+[note:場所]
+遊園地
+
+[note:人物]
+$kijima。祈禱師。除霊が仕事
+$suzuki。女の幽霊
+
+[note:要素]
+遊園地を男が一人
+空間に話しかけている。妙な人に思うかも
+男の仕事を説明
+女の幽霊の要求で、デート
+その幽霊は異星人
+名前は$suzukiだった
 
 [kijima:be:]
 [:draw:]
