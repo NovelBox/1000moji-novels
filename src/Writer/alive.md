@@ -3,11 +3,11 @@
 ## alive
 
 ::title = 生きること
-::camera = seita
-::stage = PortTown
+::camera = namiki
+::stage = Cafe
 ::location = INT
 ::year = 2021
-::date = 1/1
+::date = 10/1
 ::time = afternoon
 ::outline = 作家は喫茶店から出たところで、裸足で服の汚れた女性が道路を駆け抜けていくのを目撃し、彼女を助ける
 
@@ -29,6 +29,28 @@
 $shinjiは彼女を見て「もう終わりなんだ」と、手には銃
 けれど彼女は兄を抱きしめ「まだ、間に合う」と
 「やりなおそう」と
+
+[note:場所]
+喫茶店、を出た通り
+交差点
+空
+ビルの屋上
+
+[note:人物]
+作家$namiki
+裸足の女$reiko
+飛び降りる男$shinji
+タクシーの議員$saionji
+通りすがる女$suzuki
+
+[note:要素]
+喫茶店を出た$namiki
+裸足で走る女を見て、声をかける
+助けようと出て
+タクシーが止まる
+交差点で事故おこらず
+彼女が間に合い、屋上の$shinjiを引き止める
+晴れ渡った空を見上げることができた$namiki
 
 [seita:be:]
 [:draw:]

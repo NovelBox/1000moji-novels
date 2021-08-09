@@ -3,14 +3,13 @@
 ## breakmental
 
 ::title = 精神曼解叫
-::camera = カメラ
-::stage = ステージ
+::camera = namiki
+::stage = ExamRoom
 ::location = INT
 ::year = 2021
-::date = 1/1
+::date = 10/1
 ::time = afternoon
 ::outline = ある作家が最近奇妙なことが起こり寝付けないと医者にやってきた。質問をすると一気に様々な人格が語り始めて
-::flags = nospin
 
 [note:３行]
 作家をしていた$namikiは原稿が全く書けなくなり、精神的に追い詰められていた
@@ -26,3 +25,29 @@
 話はむちゃくちゃで、途中で医師が別の質問をするが、それに対しても一斉に答える
 最後に医師は聞いた
 「で、どれが本物の君なんだね？」
+
+[note:場所]
+診察室
+
+[note:人物]
+作家の$namiki
+医師
+各人格たち
+$saionji
+$shinji
+$reiko
+$suzuki
+$yumi
+$makishima
+
+[note:要素]
+精神的にまいった作家
+精神科に診てもらう
+そこでの問診に対して、内側から多数の作品内人格が溢れ出し、好き勝手しゃべる
+資産家の人生
+$shinjiの人生
+$reikoの人生
+$yumiの人生
+$suzukiの人生
+$makishimaの人生
+最後に「で、本当の君は？」と
