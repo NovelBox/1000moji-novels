@@ -3,11 +3,11 @@
 ## overthefire
 
 ::title = 迎え火の向こう
-::camera = kazuki
-::stage = TaokaHome
+::camera = namiki
+::stage = ParentHome
 ::location = INT
-::year = 2021
-::date = 1/1
+::year = 1986
+::date = 8/1
 ::time = afternoon
 ::outline = 小さい頃、田舎の祖父の屋敷に行く。そこでお盆の迎え火という儀式を父から教わる。
 
@@ -30,6 +30,23 @@ $namikiは小さい頃、祖父母の家にお盆になると帰っていた
 だがその時、ふっと時間がとまる
 風が吹き抜けた
 火を揺らして祖父が答えた気がした
+
+[note:場所]
+$namikiの実家。祖父母の家
+
+[note:人物]
+小学生の$namiki
+父親
+母親
+なくなった祖父
+
+[note:要素]
+実家でお盆
+なくなった祖父
+迎え火という儀式について
+火をともす
+何かを感じた。風
+声が聞こえた気がした
 
 [kazuki:be:]
 [:draw:]
