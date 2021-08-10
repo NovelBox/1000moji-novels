@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tanaka
+  name: 田中
+  fullname: 田中,タダシ
+  age: 25
+  sex: male
+  job: 業者
+  belong: 会社
+  calling:
+    me: オレ
+  note: 備考

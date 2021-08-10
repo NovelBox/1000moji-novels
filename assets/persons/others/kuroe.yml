@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kuroe
+  name: クロエ
+  fullname: アルシャウト,クロエ
+  age: 10
+  sex: female
+  job: 学生
+  belong: フリー
+  calling:
+    me: ワタシ
+  note: 備考
