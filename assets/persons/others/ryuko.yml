@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ryuko
+  name: リュウコ
+  fullname: 恐竜,リュウコ
+  age: 36
+  sex: female
+  job: 恐竜
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考
