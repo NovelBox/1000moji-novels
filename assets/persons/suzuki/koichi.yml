@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: aoyagi
-  name: 青柳
-  fullname: 青柳,健人
-  age: 35
+  tag: koichi
+  name: 好市
+  fullname: 高森,好市
+  age: 28
   sex: male
-  job: 会社員
+  job: アルバイト
   belong: フリー
   calling:
     me: 俺

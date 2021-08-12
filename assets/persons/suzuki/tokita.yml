@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: koichi
-  name: 好市
-  fullname: 矢車,好市
-  age: 28
+  tag: tokita
+  name: 常田
+  fullname: 常田,淳二
+  age: 27
   sex: male
-  job: アルバイト
+  job: 会社員
   belong: フリー
   calling:
     me: 俺

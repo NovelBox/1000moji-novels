@@ -1,12 +1,12 @@
 #!SMSdata
 person:
-  tag: tokita
-  name: 常田
-  fullname: 常田,日三
-  age: 37
+  tag: kaido
+  name: 海堂
+  fullname: 海堂,裕司
+  age: 31
   sex: male
   job: 会社員
-  belong: フリー
+  belong: 会社
   calling:
     me: 俺
   note: 備考

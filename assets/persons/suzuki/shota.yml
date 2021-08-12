@@ -1,12 +1,12 @@
 #!SMSdata
 person:
-  tag: shino
-  name: シノ
-  fullname: 影岡,シノ
+  tag: shota
+  name: 将太
+  fullname: 成岡,将太
   age: 13
   sex: female
-  job: 学生
+  job: 中学生
   belong: 学校
   calling:
-    me: 私
+    me: 僕
   note: 備考

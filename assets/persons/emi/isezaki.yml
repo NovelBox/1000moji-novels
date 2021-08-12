@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: isezaki
+  name: 伊勢崎
+  fullname: 伊勢崎,真人
+  age: 29
+  sex: male
+  job: 刑事
+  belong: 生活安全課
+  calling:
+    me: 僕
+  note: 備考
