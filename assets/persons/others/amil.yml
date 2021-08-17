@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: amil
+  name: アミール
+  fullname: ゴド,アミール
+  age: 27
+  sex: male
+  job: 戦士
+  belong: アルタイ族
+  calling:
+    me: オレ
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: nomura
+  name: 野村
+  fullname: 野村,健太
+  age: 27
+  sex: male
+  job: アルバイト
+  belong: 引っ越し
+  calling:
+    me: 僕
+  note: 備考

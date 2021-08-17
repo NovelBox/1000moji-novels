@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sary
+  name: サリー
+  fullname: 白峰,サリー
+  age: 19
+  sex: female
+  job: 生物観測
+  belong: 公的
+  calling:
+    me: 私
+  note: 備考

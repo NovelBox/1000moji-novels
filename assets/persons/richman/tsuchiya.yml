@@ -5,8 +5,8 @@ person:
   fullname: 土屋,士郎
   age: 37
   sex: male
-  job: 調査官
-  belong: フリー
+  job: 医師
+  belong: クリニック
   calling:
-    me: 俺
+    me: 私
   note: 備考

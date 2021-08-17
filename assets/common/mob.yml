@@ -27,9 +27,15 @@ mob:
   cat:
     type: mob
     name: 猫
+  father:
+    type: general
+    name: 父親
   dad:
     type: general
     name: 父親
+  mother:
+    type: general
+    name: 母親
   mam:
     type: general
     name: 母親

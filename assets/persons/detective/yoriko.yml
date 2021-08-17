@@ -1,12 +1,12 @@
 #!SMSdata
 person:
-  tag: nagisa
-  name: 渚
-  fullname: 唐木,渚
-  age: 25
+  tag: yoriko
+  name: 依子
+  fullname: 南本,依子
+  age: 36
   sex: female
   job: 会社員
-  belong: 個人
+  belong: 会社
   calling:
     me: 私
   note: 備考
