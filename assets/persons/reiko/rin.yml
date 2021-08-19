@@ -1,12 +1,12 @@
 #!SMSdata
 person:
-  tag: yume
-  name: 由愛
-  fullname: 綺咲,由愛
-  age: 17
+  tag: rin
+  name: 凜
+  fullname: 皆本,凜
+  age: 10
   sex: female
   job: 学生
   belong: 学校
   calling:
-    me: 私
+    me: わたし
   note: 備考

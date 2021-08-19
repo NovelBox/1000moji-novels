@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: taoka
+  name: 田岡
+  fullname: 田岡,嗣次郎
+  age: 73
+  sex: male
+  job: 無職
+  belong: 個人
+  calling:
+    me: 俺
+  note: 備考

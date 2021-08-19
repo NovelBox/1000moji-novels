@@ -1,12 +1,12 @@
 #!SMSdata
 person:
-  tag: zeph
-  name: ゼフ
-  fullname: モセ,ゼフ
+  tag: kazue
+  name: 和恵
+  fullname: 田岡,和恵
   age: 67
-  sex: male
+  sex: female
   job: 個人
   belong: フリー
   calling:
-    me: 俺
+    me: 私
   note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ryuji
+  name: リュージ
+  fullname: ワルコフス,リュージ
+  age: 26
+  sex: male
+  job: ギター
+  belong: バンド
+  calling:
+    me: オレ
+  note: 備考

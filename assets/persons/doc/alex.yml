@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: alex
+  name: アレックス
+  fullname: ゴードン,アレックス
+  age: 32
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: オレ
+  note: 備考

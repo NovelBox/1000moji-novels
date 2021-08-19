@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: ayame
-  name: 綾目
-  fullname: 二階堂,綾目
-  age: 25
+  tag: kiyo
+  name: 喜世
+  fullname: 日陰,喜世
+  age: 79
   sex: female
-  job: 剣士
+  job: 無職
   belong: 個人
   calling:
     me: 私

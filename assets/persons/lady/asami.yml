@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: saya
-  name: 女
-  fullname: 雪村,沙耶
-  age: 25
+  tag: asami
+  name: 朝美
+  fullname: 西園寺,朝美
+  age: 17
   sex: female
-  job: 無職
+  job: アイドル
   belong: 個人
   calling:
     me: 私

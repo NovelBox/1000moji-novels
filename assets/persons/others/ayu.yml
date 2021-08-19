@@ -2,11 +2,11 @@
 person:
   tag: ayu
   name: アユ
-  fullname: 桶川,アユ
+  fullname: 及川,アユ
   age: 25
   sex: female
-  job: レーサー
-  belong: 個人
+  job: ギター
+  belong: バンド
   calling:
     me: 私
   note: 備考
