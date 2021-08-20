@@ -114,13 +114,13 @@
 
 [br]
 
-[yume:come]
+[yumi:come]
 ある日、マスクをした女性がやってきた
 
 [nozaki:K]
 その女性に見覚えがあった
 
-[yume:T]
+[yumi:T]
 地獄を
 
 [チケット:X]
