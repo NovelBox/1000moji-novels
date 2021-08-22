@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: regna
-  name: レグナ
-  fullname: レグナ,レグナ
-  age: 20
+  tag: hayashi
+  name: 林
+  fullname: 林,賢司
+  age: 56
   sex: male
-  job: 不明
+  job: ピアニスト
   belong: フリー
   calling:
     me: 俺

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: miura
+  name: 三浦
+  fullname: 三浦,佳祐
+  age: 35
+  sex: male
+  job: 医師
+  belong: 病院
+  calling:
+    me: ボク
+  note: 備考

@@ -1,9 +1,9 @@
 #!SMSdata
 person:
-  tag: suzuyo
-  name: 鈴代
-  fullname: 仲邑,鈴代
-  age: 33
+  tag: ami
+  name: 亜美
+  fullname: 仲邑,亜美
+  age: 32
   sex: female
   job: 会社員
   belong: 会社

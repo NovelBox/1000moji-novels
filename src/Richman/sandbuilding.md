@@ -66,16 +66,16 @@
 [saionji:be]
 スーツ姿でそれを見下ろしている
 
-[saori:come]
+[emi:come]
 秘書が入ってくる
 
-[saori:T]
+[emi:T]
 社長
 
 [saionji:T]
 その呼び方はよしてくれ
 
-[saori:T]
+[emi:T]
 けれど、あと二十分ほどは社長でございますから
 
 [テレビ:D]
@@ -90,7 +90,7 @@
 [saionji:T]
 どう思うかね
 
-[saori:T]
+[emi:T]
 $meが東大寺派の人間と知って、なぜ採用されたんですか？
 
 [saionji:T]

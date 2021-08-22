@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: yumemi
-  name: 夢見
-  fullname: 夢見,悪三
-  age: 37
+  tag: isomura
+  name: 磯村
+  fullname: 磯村,喜介
+  age: 41
   sex: male
-  job: 会社員
+  job: 不明
   belong: フリー
   calling:
     me: 俺

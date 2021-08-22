@@ -144,11 +144,11 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <turnoff>
 <onlyonelove>
 <breakupafternoon>
-<station>
+<tie3sets>
 
 # 21-30
 
-<tie3sets>
+<station>
 <suzukixmas>
 <tongue>
 <sandbuilding>
@@ -194,8 +194,8 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <rubblestar>
 <statue>
 <pierrot>
-<blade>
 <monster>
+<blade>
 <delete>
 
 # 61-70

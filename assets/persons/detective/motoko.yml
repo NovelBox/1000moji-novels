@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: nikea
-  name: ニケア
-  fullname: レモ,ニケア
-  age: 12
+  tag: motoko
+  name: 本子
+  fullname: 久慈,本子
+  age: 32
   sex: female
-  job: 歌虫
+  job: 主婦
   belong: 個人
   calling:
     me: 私

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: miki
+  name: 美樹
+  fullname: 杉岡,美樹
+  age: 24
+  sex: female
+  job: 主婦
+  belong: フリー
+  calling:
+    me: 私
+  note: 備考

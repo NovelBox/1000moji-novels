@@ -1,11 +1,11 @@
 #!SMSdata
 person:
-  tag: ryu
-  name: 柳
-  fullname: 柳,申兼
-  age: 56
+  tag: hikage
+  name: 日陰
+  fullname: 日陰,明夫
+  age: 35
   sex: male
-  job: ピアニスト
+  job: 道化師
   belong: フリー
   calling:
     me: 俺

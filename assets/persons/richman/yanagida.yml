@@ -1,9 +1,9 @@
 #!SMSdata
 person:
-  tag: sanada
-  name: 真田
-  fullname: 真田,篤史
-  age: 28
+  tag: yanagida
+  name: 柳田
+  fullname: 柳田,篤郎
+  age: 37
   sex: male
   job: 新聞記者
   belong: 新聞社
