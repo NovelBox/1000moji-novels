@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: shinoda
+  name: 篠田
+  fullname: 篠田,祐輔
+  age: 35
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: ボク
+  note: 備考

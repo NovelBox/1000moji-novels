@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: junko
+  name: 順子
+  fullname: 杉岡,順子
+  age: 28
+  sex: female
+  job: 会社員
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

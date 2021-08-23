@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: risa
+  name: リサ
+  fullname: 佐伯,リサ
+  age: 28
+  sex: female
+  job: 秘書
+  belong: 会社
+  calling:
+    me: 私
+  note: ミカの母親。西園寺の愛人の一人だったが、揉め事の最中に頭を打って事故死。しかし握りつぶされ、自殺したことになった

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tsuki
+  name: 月
+  fullname: 満嶋,月
+  age: 14
+  sex: female
+  job: 中学生
+  belong: 学校
+  calling:
+    me: 私
+  note: 備考

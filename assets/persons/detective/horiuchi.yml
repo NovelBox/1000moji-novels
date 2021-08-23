@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: horiuchi
+  name: 堀内
+  fullname: 堀内,宗男
+  age: 44
+  sex: male
+  job: 刑事
+  belong: 警察
+  calling:
+    me: 俺
+  note: 備考

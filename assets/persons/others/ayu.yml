@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ayu
+  name: アユ
+  fullname: 及川,アユ
+  age: 25
+  sex: female
+  job: ギター
+  belong: バンド
+  calling:
+    me: 私
+  note: 備考

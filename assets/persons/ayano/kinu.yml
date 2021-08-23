@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kinu
+  name: 絹
+  fullname: 山下,絹
+  age: 28
+  sex: female
+  job: 巫女
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

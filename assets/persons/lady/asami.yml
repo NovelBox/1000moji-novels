@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: asami
+  name: 朝美
+  fullname: 西園寺,朝美
+  age: 17
+  sex: female
+  job: アイドル
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

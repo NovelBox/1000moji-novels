@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: munakata
+  name: 宗像
+  fullname: 宗像,林秀
+  age: 43
+  sex: male
+  job: 議員
+  belong: 国会
+  calling:
+    me: 俺
+  note: 備考

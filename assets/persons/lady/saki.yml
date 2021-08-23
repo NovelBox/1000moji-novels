@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: saki
+  name: 咲
+  fullname: 花村,咲
+  age: 15
+  sex: female
+  job: 学生
+  belong: 学校
+  calling:
+    me: 私
+  note: 備考

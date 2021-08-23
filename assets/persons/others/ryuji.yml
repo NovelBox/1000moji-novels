@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ryuji
+  name: リュージ
+  fullname: 柏木,リュージ
+  age: 26
+  sex: male
+  job: ギター
+  belong: バンド
+  calling:
+    me: オレ
+  note: 備考

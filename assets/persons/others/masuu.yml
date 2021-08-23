@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: masuu
+  name: マッスー
+  fullname: 増田,洋次
+  age: 29
+  sex: male
+  job: ベース
+  belong: バンド
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: michiko
+  name: 美知子
+  fullname: 日陰,美知子
+  age: 37
+  sex: female
+  job: パート
+  belong: フリー
+  calling:
+    me: 私
+  note: 備考

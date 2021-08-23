@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: death
+  name: 死神
+  fullname: 死神,死神
+  age: 58
+  sex: male
+  job: 死神
+  belong: フリー
+  calling:
+    me: ワタシ
+  note: 備考

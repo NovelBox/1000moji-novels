@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: nakano
+  name: 那珂野
+  fullname: 那珂野,誠一
+  age: 37
+  sex: male
+  job: 無職
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

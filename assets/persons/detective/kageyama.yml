@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kageyama
+  name: 景山
+  fullname: 景山,啓司
+  age: 28
+  sex: male
+  job: 刑事
+  belong: 警察署
+  calling:
+    me: オレ
+  note: 備考

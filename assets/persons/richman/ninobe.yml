@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ninobe
+  name: 二延
+  fullname: 二述,准
+  age: 56
+  sex: male
+  job: 大統領
+  belong: フリー
+  calling:
+    me: 私
+  note: 備考

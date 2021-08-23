@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: iriyama
+  name: 入山
+  fullname: 入山,清秋
+  age: 56
+  sex: male
+  job: 作家
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

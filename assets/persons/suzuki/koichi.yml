@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: koichi
+  name: 好市
+  fullname: 高森,好市
+  age: 28
+  sex: male
+  job: アルバイト
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

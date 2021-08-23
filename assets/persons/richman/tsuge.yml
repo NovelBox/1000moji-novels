@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tsuge
+  name: 柘植
+  fullname: 柘植,庸平
+  age: 63
+  sex: male
+  job: 元新聞記者
+  belong: 個人
+  calling:
+    me: 俺
+  note: 備考

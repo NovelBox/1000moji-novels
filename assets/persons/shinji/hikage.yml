@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: hikage
+  name: 日陰
+  fullname: 日陰,明夫
+  age: 35
+  sex: male
+  job: 道化師
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: mei
+  name: メイ
+  fullname: 蒔島,メイ
+  age: 60
+  sex: female
+  job: 主婦
+  belong: フリー
+  calling:
+    me: 私
+  note: 備考

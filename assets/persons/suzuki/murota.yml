@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: murota
+  name: 室田
+  fullname: 室田,良太郎
+  age: 53
+  sex: male
+  job: 事務員
+  belong: 印財団
+  calling:
+    me: 私
+  note: 備考

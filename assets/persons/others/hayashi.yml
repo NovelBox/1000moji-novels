@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: hayashi
+  name: 林
+  fullname: 林,賢司
+  age: 55
+  sex: male
+  job: ピアニスト
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

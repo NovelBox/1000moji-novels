@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tsumori
+  name: 津守
+  fullname: 津守,健児
+  age: 25
+  sex: male
+  job: アルバイト
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

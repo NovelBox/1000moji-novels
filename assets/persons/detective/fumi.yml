@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: fumi
+  name: ふみ
+  fullname: 太田,ふみ
+  age: 33
+  sex: female
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

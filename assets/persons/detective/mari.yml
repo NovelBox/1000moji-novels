@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: mari
+  name: 麻里
+  fullname: 久慈,麻里
+  age: 25
+  sex: female
+  job: 主婦
+  belong: 個人
+  calling:
+    me: 私
+  note: $kujiの妻

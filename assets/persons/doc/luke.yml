@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: luke
+  name: ルーク
+  fullname: ミヤザト,ルーク
+  age: 27
+  sex: male
+  job: 調査官
+  belong: 公務員
+  calling:
+    me: 俺
+  note: 備考

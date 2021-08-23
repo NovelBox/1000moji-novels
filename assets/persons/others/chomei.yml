@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: chomei
+  name: 長明
+  fullname: 王,長明
+  age: 28
+  sex: male
+  job: 技師
+  belong: 個人
+  calling:
+    me: 俺
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: rin
+  name: 凜
+  fullname: 皆本,凜
+  age: 10
+  sex: female
+  job: 学生
+  belong: 学校
+  calling:
+    me: わたし
+  note: 備考

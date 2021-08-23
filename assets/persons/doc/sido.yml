@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sido
+  name: 椎堂
+  fullname: 椎堂,太郎
+  age: 38
+  sex: male
+  job: 会社員
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

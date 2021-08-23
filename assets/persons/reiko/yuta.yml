@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yuta
+  name: 雄太
+  fullname: 宮野,雄太
+  age: 10
+  sex: male
+  job: 小学生
+  belong: 学校
+  calling:
+    me: ぼく
+  note: 備考

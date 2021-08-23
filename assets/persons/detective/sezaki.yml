@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sezaki
+  name: 瀬崎
+  fullname: 瀬崎,恭輔
+  age: 30
+  sex: male
+  job: 教授
+  belong: 大学
+  calling:
+    me: 俺
+  note: 備考

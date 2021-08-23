@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: masaki
+  name: 真崎
+  fullname: 真崎,健祐
+  age: 28
+  sex: male
+  job: 記者
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

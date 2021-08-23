@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: takeru
+  name: 皆本
+  fullname: 皆本,武流
+  age: 33
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: おれ
+  note: 備考

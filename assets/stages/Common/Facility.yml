@@ -1,0 +1,5 @@
+#!SMSdata
+stage:
+  tag: Facility
+  name: 工場
+  note: 備考。

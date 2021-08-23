@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: isomura
+  name: 磯村
+  fullname: 磯村,喜介
+  age: 41
+  sex: male
+  job: 不明
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

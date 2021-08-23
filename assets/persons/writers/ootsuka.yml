@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ootsuka
+  name: 大塚
+  fullname: 大塚,透
+  age: 28
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: 俺
+  note: 備考

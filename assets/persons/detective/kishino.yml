@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kishino
+  name: 笑美
+  fullname: 岸野,笑美
+  age: 28
+  sex: female
+  job: 個人
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

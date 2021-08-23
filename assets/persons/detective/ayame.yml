@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ayame
+  name: アヤメ
+  fullname: 二階堂,アヤメ
+  age: 10
+  sex: female
+  job: 小学生
+  belong: 小学校
+  calling:
+    me: わたし
+  note: 備考

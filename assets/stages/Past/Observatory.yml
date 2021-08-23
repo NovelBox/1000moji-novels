@@ -1,0 +1,5 @@
+#!SMSdata
+stage:
+  tag: Observatory
+  name: 天文台
+  note: 備考。
