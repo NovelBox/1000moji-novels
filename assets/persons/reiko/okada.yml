@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: okada
+  name: 岡田
+  fullname: 岡田,幹也
+  age: 42
+  sex: male
+  job: 左官業
+  belong: 会社
+  calling:
+    me: ワイ
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yamamoto
+  name: 山本
+  fullname: 山本,順一
+  age: 37
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: オレ
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sawai
+  name: 澤井
+  fullname: 澤井,辰吾
+  age: 40
+  sex: male
+  job: 医師
+  belong: 澤井クリニック
+  calling:
+    me: 私
+  note: 備考
