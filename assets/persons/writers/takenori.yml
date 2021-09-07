@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: takenori
+  name: 武典
+  fullname: 並木,武典
+  age: 85
+  sex: male
+  job: 無職
+  belong: フリー
+  calling:
+    me: 俺
+  note: 備考

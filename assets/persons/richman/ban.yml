@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: ban
+  name: 伴
+  fullname: 伴,怪堂
+  age: 32
+  sex: male
+  job: 芸術家
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

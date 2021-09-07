@@ -1,0 +1,13 @@
+#!SMSdata
+person:
+  tag: takeo
+  name: 武夫
+  fullname: 並木,武夫
+  age: 55
+  sex: male
+  job: 会社員
+  belong: フリー
+  calling:
+    me: 俺
+    namiki: 司郎
+  note: 備考

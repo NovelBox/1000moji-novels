@@ -9,3 +9,9 @@ word:
   LINE:
     name: ＬＩＮＥ
     info: ライン。コミュニケーションアプリ
+  brainsys:
+    name: ブレイン・ベア・システム
+    info: 脳を直結した電子空間
+  k_brainsys:
+    name: ＢＢＳ
+    info: brainsysの略称

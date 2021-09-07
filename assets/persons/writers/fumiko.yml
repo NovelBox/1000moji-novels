@@ -1,0 +1,13 @@
+#!SMSdata
+person:
+  tag: fumiko
+  name: 史子
+  fullname: 並木,史子
+  age: 55
+  sex: female
+  job: 会社員
+  belong: フリー
+  calling:
+    me: 私
+    namiki: しーちゃん
+  note: 備考

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: sasayama
+  name: 笹山
+  fullname: 笹山,健二郎
+  age: 35
+  sex: male
+  job: 教師
+  belong: 高校
+  calling:
+    me: オレ
+  note: 備考
