@@ -15,3 +15,9 @@ word:
   k_brainsys:
     name: ＢＢＳ
     info: brainsysの略称
+  jpn_gun:
+    name: Ｍ３６０Ｊ　ＳＡＫＵＲＡ
+    info: 日本の警察が持っている五連回転式拳銃
+  k_jpn_gun:
+    name: サクラ
+    info: 略称
