@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: aina
+  name: アイナ
+  fullname: 海東,アイナ
+  age: 19
+  sex: female
+  job: 専門学校生
+  belong: 学校
+  calling:
+    me: アタシ
+  note: 備考

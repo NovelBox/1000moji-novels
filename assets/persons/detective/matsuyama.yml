@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: matsuyama
+  name: 松山
+  fullname: 松山,竜次
+  age: 33
+  sex: male
+  job: 雑貨屋
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

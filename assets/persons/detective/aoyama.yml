@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: aoyama
+  name: 青山
+  fullname: 青山,泰介
+  age: 36
+  sex: male
+  job: 会社員
+  belong: 会社
+  calling:
+    me: 僕
+  note: 備考

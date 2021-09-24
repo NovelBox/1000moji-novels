@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: akiko
+  name: 秋子
+  fullname: 鈴木,秋子
+  age: 55
+  sex: female
+  job: 会社員
+  belong: 個人
+  calling:
+    me: ワタシ
+  note: 備考

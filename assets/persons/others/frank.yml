@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: frank
+  name: フランク
+  fullname: 財門,フランク
+  age: 45
+  sex: male
+  job: エージェント
+  belong: 個人
+  calling:
+    me: ボク
+  note: 備考
