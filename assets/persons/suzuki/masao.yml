@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: masao
+  name: 正雄
+  fullname: 鈴木,正雄
+  age: 55
+  sex: male
+  job: 会社員
+  belong: 個人
+  calling:
+    me: ワシ
+  note: 備考

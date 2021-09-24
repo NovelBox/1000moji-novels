@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: nazuka
+  name: 名塚
+  fullname: 名塚,平造
+  age: 33
+  sex: male
+  job: 鑑識官
+  belong: 警察
+  calling:
+    me: 私
+  note: 備考

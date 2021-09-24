@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: neumann
+  name: ノイマン
+  fullname: ノイマン,トーレ
+  age: 45
+  sex: male
+  job: 教授
+  belong: 公務員
+  calling:
+    me: ワタシ
+  note: 備考

@@ -3,10 +3,11 @@ person:
   tag: yuta
   name: 雄太
   fullname: 宮野,雄太
-  age: 10
+  age: 5
   sex: male
-  job: 小学生
+  job: 保育園
   belong: 学校
   calling:
     me: ぼく
+    reiko: レイちゃん
   note: 備考

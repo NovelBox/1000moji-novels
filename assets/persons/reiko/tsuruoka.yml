@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: tsuruoka
+  name: 鶴岡
+  fullname: 鶴岡,譲治
+  age: 62
+  sex: male
+  job: 配送業
+  belong: 会社
+  calling:
+    me: 私
+  note: 備考

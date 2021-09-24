@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: asimof
+  name: アシモフ
+  fullname: 蒔島,アシモフ
+  age: 10
+  sex: male
+  job: 犬
+  belong: フリー
+  calling:
+    me: 私
+  note: 備考

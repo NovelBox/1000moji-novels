@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: macky
+  name: マッキー
+  fullname: 蒔島,マッキー
+  age: 10
+  sex: male
+  job: 少年
+  belong: フリー
+  calling:
+    me: オレ
+  note: 備考
