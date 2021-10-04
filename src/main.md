@@ -168,9 +168,9 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <blooddream>
 <mask>
 <linework>
-<substitute>
+# <substitute>
 <murderlecture>
-<noendofdream>
+# <noendofdream>
 
 # 41-50
 
@@ -207,8 +207,8 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <sinandpunishment>
 <drop>
 <boxoffice>
-<notomorrownote>
-<rightofhuman>
+# <notomorrownote>
+# <rightofhuman>
 <breakmental>
 
 # 71-80
@@ -222,7 +222,7 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <bigtree>
 <plant>
 <leg>
-<unfinishedours>
+# <unfinishedours>
 
 # 81-90
 
@@ -232,7 +232,7 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <proofofthanks>
 <stadium>
 <goodluck>
-<dreamgirls>
+# <dreamgirls>
 <purgingangels>
 <anothersky>
 <papertellsdream>
@@ -243,7 +243,7 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <riceball>
 <icecream>
 <drivingschool>
-<hercooking>
+# <hercooking>
 <replicantdead>
 <rainandcoffee>
 <alive>
