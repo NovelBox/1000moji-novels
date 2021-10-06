@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: noriko
+  name: 典子
+  fullname: 鈴木,典子
+  age: 25
+  sex: female
+  job: 会社員
+  belong: 個人
+  calling:
+    me: ワタシ
+  note: 備考

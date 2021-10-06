@@ -6,11 +6,14 @@
 ::camera = yumi
 ::stage = Budokan
 ::location = INT
-::year = 2022
+::year = 2021
 ::date = 3/1
 ::time = afternoon
 ::outline = その歌手はやっとステージに立つことができる。華々しいデビューを飾る。その時、自分を捨てた本当の父親が現れた
-::flags = nospin
+
+[note:文体]
+視点は夕美、三人称
+文体は「文学」
 
 [note:３行]
 $yumiは歌手としてデビューし、今日初めての舞台に立つ

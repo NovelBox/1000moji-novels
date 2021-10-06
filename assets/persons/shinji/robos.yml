@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: robos
+  name: タイプＳ
+  fullname: ロボ,タイプＳ
+  age: 28
+  sex: male
+  job: 派遣
+  belong: 個人
+  calling:
+    me: オレ
+  note: 備考
