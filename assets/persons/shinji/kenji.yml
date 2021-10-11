@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kenji
+  name: ケンジ
+  fullname: 大宮,ケンジ
+  age: 28
+  sex: male
+  job: 派遣
+  belong: 個人
+  calling:
+    me: オレ
+  note: 備考
