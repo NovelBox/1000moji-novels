@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: katsura
+  name: 桂
+  fullname: 桂,宗則
+  age: 48
+  sex: male
+  job: 教師
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

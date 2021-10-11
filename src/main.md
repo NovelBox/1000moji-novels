@@ -2,7 +2,7 @@
 
 ## main
 
-::title = 千文字小説百蒐
+::title = 千文字小説百物騙
 ::outline = ある作家は編集から企画として百物語にならってショートストーリーを百話書くことになった。しかし書いていくうちに周囲に奇妙なことが起こり始める
 ::flags = nospin
 
@@ -120,132 +120,155 @@ $namikiは挑戦してみることにし、作品を書き始めた
 99.エッセィ千文字小説百物語
 100.あなたへ
 
-# 1-10
+# 前半（１〜５０）
 
 <preface>
+
 <thepunishment>
-<digitalbutterfly>
-<musicbox>
-<face>
-<santaclaus>
-<museum>
+
 <fallensunset>
+<musicbox>
+<overthefire>
+<songbug>
+<tree>
 <tearsriver>
+<starbirth>
+<toydoll>
+<onlyonelove>
+<ghostdraw>
+<idletree>
+<teacher>
+<sandbuilding>
+<santaclaus>
+<face>
+<museum>
+<backtomoon>
+<missingany>
+<nofullmoon>
+<suzukixmas>
+<tie3sets>
+<soilsmell>
+<thanksforreturn>
+<spiderweb>
+<worldend>
+<alienceremony>
 <gun>
+<tongue>
+<afternoonaffair>
+<donotreport>
+<osmanthus>
+<eye>
+<turnoff>
+<themark>
+<mask>
+<shadow>
+<breakupafternoon>
+<deathconfused>
+<herosmoney>
+<tumor>
+<blooddream>
+<murderlecture>
+<station>
+<radio>
+<coupleindrawing>
+<car>
+<house>
+<dead>
+
+# 後半（５１〜１００）
+
+<coffeebreak>
+<villadaemon>
+<labyrinth2000a>
+<labyrinth2000b>
+<leg>
+<pierrot>
+<linework>
+<trigger>
+<monster>
+<blade>
+<drop>
+<breakmental>
+<dingybechstein>
+<heat>
+<jingai>
+<plant>
+<sinandpunishment>
+<statue>
+<boxoffice>
+<digitalbutterfly>
+<tears>
+<russiandollslost>
+<delete>
+<icarusflying>
+<braintears>
+<replicantdead>
+<justmeet>
+<loosenscrew>
+<warmemory>
+<rubblestar>
+<anothersky>
+
+# 時系列順B
+
+<granmatime>
+<papertellsdream>
+<alive>
+<icecream>
+<bigmomentguarneri>
+<livedrum>
+<skybluemountgreen>
+<purgingangels>
+<proofofthanks>
+<stadium>
+<drivingschool>
+<riceball>
+<servicer>
+<goodluck>
+<bigtree>
+
+# 終わり
+
+<rainandcoffee>
+<lastrobot>
+<essay>
+<foryou>
+
+# 1-10
+
+
+
 
 # 11-20
 
-<afternoonaffair>
-<backtomoon>
-<spiderweb>
-<tree>
-<donotreport>
-<icarusflying>
-<turnoff>
-<onlyonelove>
-<breakupafternoon>
-<tie3sets>
 
 # 21-30
 
-<station>
-<suzukixmas>
-<tongue>
-<sandbuilding>
-<dingybechstein>
-<thanksforreturn>
-<tumor>
-<eye>
-<starbirth>
-<trigger>
 
 # 31-40
 
-<labyrinth2000a>
-<labyrinth2000b>
-<shadow>
-<themark>
-<blooddream>
-<mask>
-<linework>
-<substitute>
-<murderlecture>
-<noendofdream>
+# <substitute>
+# <noendofdream>
 
 # 41-50
 
-<overthefire>
-<villadaemon>
-<soilsmell>
-<alienceremony>
-<warmemory>
-<tears>
-<braintears>
-<missingany>
-<dead>
-<coffeebreak>
 
 # 51-60
 
-<deathconfused>
-<nofullmoon>
-<russiandollslost>
-<coupleindrawing>
-<rubblestar>
-<statue>
-<pierrot>
-<monster>
-<blade>
-<delete>
 
 # 61-70
 
-<jingai>
-<car>
-<house>
-<lastrobot>
-<sinandpunishment>
-<drop>
-<boxoffice>
-<notomorrownote>
-<rightofhuman>
-<breakmental>
+# <notomorrownote>
+# <rightofhuman>
 
 # 71-80
 
-<songbug>
-<osmanthus>
-<idletree>
-<heat>
-<bigmomentguarneri>
-<loosenscrew>
-<bigtree>
-<plant>
-<leg>
-<unfinishedours>
+# <unfinishedours>
 
 # 81-90
 
-<livedrum>
-<skybluemountgreen>
-<granmatime>
-<proofofthanks>
-<stadium>
-<goodluck>
-<dreamgirls>
-<purgingangels>
-<anothersky>
-<papertellsdream>
+# <dreamgirls>
 
 # 91-100
 
-<servicer>
-<riceball>
-<icecream>
-<drivingschool>
-<hercooking>
-<replicantdead>
-<rainandcoffee>
-<alive>
-<essay>
-<foryou>
+# <hercooking>

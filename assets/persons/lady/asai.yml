@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: asai
+  name: 朝井
+  fullname: 朝井,文則
+  age: 37
+  sex: male
+  job: プロデューサー
+  belong: フリー
+  calling:
+    me: 僕
+  note: ラジオの番組をいくつか持っている

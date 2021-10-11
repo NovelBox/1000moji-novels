@@ -5,11 +5,15 @@
 ::title = 刃
 ::camera = kuji
 ::stage = OnStreet
-::location = INT
-::year = 2022
+::location = EXT
+::year = 2021
 ::date = 3/1
 ::time = afternoon
 ::outline = 刑事はある通り魔事件を追いかけていた。それは盗まれた日本刀による殺人事件で、しかし次々とその容疑者候補たちが殺されているという謎の事件だった
+
+[note:文体]
+視点は久慈、三人称
+文体は「文学」
 
 [note:３行]
 謎の連続通り魔殺人事件が発生していた。刑事の$kujiは担当としてその事件を追いかけていた

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: banboy
+  name: 太郎
+  fullname: 伴,太郎
+  age: 10
+  sex: male
+  job: 小学生
+  belong: 個人
+  calling:
+    me: ぼく
+  note: 備考

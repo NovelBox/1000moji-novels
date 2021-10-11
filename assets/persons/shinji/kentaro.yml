@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: kentaro
+  name: 健太郎
+  fullname: 大宮,健太郎
+  age: 56
+  sex: male
+  job: 無職
+  belong: 個人
+  calling:
+    me: オレ
+  note: 備考

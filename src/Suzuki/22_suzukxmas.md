@@ -3,13 +3,17 @@
 ## suzukixmas
 
 ::title = 鈴木教のクリスマス
-::camera = suzuki
+::camera = koichi
 ::stage = Manshion
 ::location = INT
-::year = 2013
+::year = 2001
 ::date = 12/24
 ::time = afternoon
 ::outline = 付き合っている彼女の鈴木は宗教的にクリスマスを排除していた。だが彼はどうしてもクリスマスに憧れがあり、なんとか彼女とクリスマスを過ごそうとする
+
+[note:文体]
+視点は高森、三人称
+文体は「恋愛」
 
 [note:３行]
 付き合っている$suzukiという女性は$suzuki教という独自の宗教をやっていて、クリスマスを否定していた

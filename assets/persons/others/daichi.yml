@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: daichi
+  name: 土屋
+  fullname: 土屋,大地
+  age: 35
+  sex: male
+  job: 教師
+  belong: 小学校
+  calling:
+    me: 私
+  note: 備考
