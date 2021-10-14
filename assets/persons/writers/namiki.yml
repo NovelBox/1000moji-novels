@@ -8,6 +8,6 @@ person:
   job: 作家
   belong: フリー
   calling:
-    me: 僕
-    k_me: 私
+    me: 私
+    k_me: 僕
   note: 備考
