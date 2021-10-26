@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: yugi
+  name: 柚木
+  fullname: 柚木,有沙
+  age: 31
+  sex: female
+  job: 秘書
+  belong: 個人
+  calling:
+    me: 私
+  note: 備考

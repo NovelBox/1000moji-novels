@@ -1,8 +1,8 @@
 #!SMSdata
 person:
-  tag: emi
-  name: エミ
-  fullname: 中村,エミ
+  tag: nakamura
+  name: 絵美
+  fullname: 仲邑,絵美
   age: 32
   sex: female
   job: 編集者

@@ -1,0 +1,12 @@
+#!SMSdata
+person:
+  tag: types
+  name: Ｓ型
+  fullname: タイプ,Ｓ
+  age: 28
+  sex: male
+  job: 派遣
+  belong: 個人
+  calling:
+    me: オレ
+  note: 備考

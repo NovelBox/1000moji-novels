@@ -161,8 +161,8 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <turnoff>
 <themark>
 <mask>
-<shadow>
 <breakupafternoon>
+<shadow>
 <deathconfused>
 <herosmoney>
 <tumor>
@@ -184,9 +184,9 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <leg>
 <pierrot>
 <linework>
-<trigger>
 <monster>
 <blade>
+<trigger>
 <drop>
 <breakmental>
 <dingybechstein>
@@ -202,8 +202,8 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <delete>
 <icarusflying>
 <braintears>
-<replicantdead>
 <justmeet>
+<replicantdead>
 <loosenscrew>
 <warmemory>
 <rubblestar>
