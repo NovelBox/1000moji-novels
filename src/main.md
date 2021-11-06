@@ -206,8 +206,8 @@ $namikiは挑戦してみることにし、作品を書き始めた
 <replicantdead>
 <loosenscrew>
 <warmemory>
-<rubblestar>
 <anothersky>
+<rubblestar>
 
 # 時系列順B
 
