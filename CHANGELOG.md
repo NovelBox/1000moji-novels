@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+- 1000 chars limited
+
 ## [0.9.0] - 2021-10-27
 ### Fixed
 - stories size
